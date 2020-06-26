@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Contracts\IRepository.cs" />
     <Compile Include="Model\BaseEntity.cs" />
+    <Compile Include="Model\Basket.cs" />
+    <Compile Include="Model\BasketItem.cs" />
     <Compile Include="Model\Product.cs" />
     <Compile Include="Model\ProductCategory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
